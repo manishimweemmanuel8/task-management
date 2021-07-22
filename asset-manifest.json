@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://manishimweemmanuel8/task-management/static/css/main.34728c2f.chunk.css",
+    "main.js": "https://manishimweemmanuel8/task-management/static/js/main.2a84fb0b.chunk.js",
+    "main.js.map": "https://manishimweemmanuel8/task-management/static/js/main.2a84fb0b.chunk.js.map",
+    "runtime~main.js": "https://manishimweemmanuel8/task-management/static/js/runtime~main.20229ed0.js",
+    "runtime~main.js.map": "https://manishimweemmanuel8/task-management/static/js/runtime~main.20229ed0.js.map",
+    "static/js/2.0e543f75.chunk.js": "https://manishimweemmanuel8/task-management/static/js/2.0e543f75.chunk.js",
+    "static/js/2.0e543f75.chunk.js.map": "https://manishimweemmanuel8/task-management/static/js/2.0e543f75.chunk.js.map",
+    "index.html": "https://manishimweemmanuel8/task-management/index.html",
+    "precache-manifest.a7cd1aa245226948cbb12348538524f0.js": "https://manishimweemmanuel8/task-management/precache-manifest.a7cd1aa245226948cbb12348538524f0.js",
+    "service-worker.js": "https://manishimweemmanuel8/task-management/service-worker.js",
+    "static/css/main.34728c2f.chunk.css.map": "https://manishimweemmanuel8/task-management/static/css/main.34728c2f.chunk.css.map"
+  }
+}
